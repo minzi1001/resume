@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 个人网站</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/resume/tags/</link>
     <description>Recent content in Tags on 个人网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 03 Jul 2024 10:41:10 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/resume/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>旅游</title>
-      <link>http://localhost:1313/tags/%E6%97%85%E6%B8%B8/</link>
+      <link>http://localhost:1313/resume/tags/%E6%97%85%E6%B8%B8/</link>
       <pubDate>Wed, 03 Jul 2024 10:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E6%97%85%E6%B8%B8/</guid>
+      <guid>http://localhost:1313/resume/tags/%E6%97%85%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>秦皇岛</title>
-      <link>http://localhost:1313/tags/%E7%A7%A6%E7%9A%87%E5%B2%9B/</link>
+      <link>http://localhost:1313/resume/tags/%E7%A7%A6%E7%9A%87%E5%B2%9B/</link>
       <pubDate>Wed, 03 Jul 2024 10:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E7%A7%A6%E7%9A%87%E5%B2%9B/</guid>
+      <guid>http://localhost:1313/resume/tags/%E7%A7%A6%E7%9A%87%E5%B2%9B/</guid>
       <description></description>
     </item>
     <item>
       <title>养花</title>
-      <link>http://localhost:1313/tags/%E5%85%BB%E8%8A%B1/</link>
+      <link>http://localhost:1313/resume/tags/%E5%85%BB%E8%8A%B1/</link>
       <pubDate>Tue, 09 Apr 2024 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E5%85%BB%E8%8A%B1/</guid>
+      <guid>http://localhost:1313/resume/tags/%E5%85%BB%E8%8A%B1/</guid>
       <description></description>
     </item>
     <item>
       <title>郁金香</title>
-      <link>http://localhost:1313/tags/%E9%83%81%E9%87%91%E9%A6%99/</link>
+      <link>http://localhost:1313/resume/tags/%E9%83%81%E9%87%91%E9%A6%99/</link>
       <pubDate>Tue, 09 Apr 2024 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E9%83%81%E9%87%91%E9%A6%99/</guid>
+      <guid>http://localhost:1313/resume/tags/%E9%83%81%E9%87%91%E9%A6%99/</guid>
       <description></description>
     </item>
     <item>
       <title>结晶中心</title>
-      <link>http://localhost:1313/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</link>
+      <link>http://localhost:1313/resume/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</link>
       <pubDate>Sat, 18 Nov 2023 15:13:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</guid>
+      <guid>http://localhost:1313/resume/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</guid>
       <description></description>
     </item>
     <item>
       <title>运动</title>
-      <link>http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/</link>
+      <link>http://localhost:1313/resume/tags/%E8%BF%90%E5%8A%A8/</link>
       <pubDate>Sat, 18 Nov 2023 15:13:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/</guid>
+      <guid>http://localhost:1313/resume/tags/%E8%BF%90%E5%8A%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>感恩</title>
-      <link>http://localhost:1313/tags/%E6%84%9F%E6%81%A9/</link>
+      <link>http://localhost:1313/resume/tags/%E6%84%9F%E6%81%A9/</link>
       <pubDate>Sun, 10 Sep 2023 10:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E6%84%9F%E6%81%A9/</guid>
+      <guid>http://localhost:1313/resume/tags/%E6%84%9F%E6%81%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>教师节</title>
-      <link>http://localhost:1313/tags/%E6%95%99%E5%B8%88%E8%8A%82/</link>
+      <link>http://localhost:1313/resume/tags/%E6%95%99%E5%B8%88%E8%8A%82/</link>
       <pubDate>Sun, 10 Sep 2023 10:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/%E6%95%99%E5%B8%88%E8%8A%82/</guid>
+      <guid>http://localhost:1313/resume/tags/%E6%95%99%E5%B8%88%E8%8A%82/</guid>
       <description></description>
     </item>
   </channel>

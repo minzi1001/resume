@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教师节 on 个人网站</title>
-    <link>http://localhost:1313/tags/%E6%95%99%E5%B8%88%E8%8A%82/</link>
+    <link>http://localhost:1313/resume/tags/%E6%95%99%E5%B8%88%E8%8A%82/</link>
     <description>Recent content in 教师节 on 个人网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 Sep 2023 10:29:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%95%99%E5%B8%88%E8%8A%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/resume/tags/%E6%95%99%E5%B8%88%E8%8A%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>教师节快乐！</title>
-      <link>http://localhost:1313/blogs/markdown-syntax/</link>
+      <link>http://localhost:1313/resume/blogs/markdown-syntax/</link>
       <pubDate>Sun, 10 Sep 2023 10:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/markdown-syntax/</guid>
+      <guid>http://localhost:1313/resume/blogs/markdown-syntax/</guid>
       <description>&lt;p&gt;感谢导师！&lt;/p&gt;</description>
     </item>
   </channel>

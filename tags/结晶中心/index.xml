@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>结晶中心 on 个人网站</title>
-    <link>http://localhost:1313/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</link>
+    <link>http://localhost:1313/resume/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/</link>
     <description>Recent content in 结晶中心 on 个人网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 18 Nov 2023 15:13:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/resume/tags/%E7%BB%93%E6%99%B6%E4%B8%AD%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>羽毛球比赛</title>
-      <link>http://localhost:1313/blogs/emoji-support/</link>
+      <link>http://localhost:1313/resume/blogs/emoji-support/</link>
       <pubDate>Sat, 18 Nov 2023 15:13:58 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/emoji-support/</guid>
+      <guid>http://localhost:1313/resume/blogs/emoji-support/</guid>
       <description>&lt;p&gt;男双亚军！！！ :zap:&lt;/p&gt;</description>
     </item>
     <item>
       <title>教师节快乐！</title>
-      <link>http://localhost:1313/blogs/markdown-syntax/</link>
+      <link>http://localhost:1313/resume/blogs/markdown-syntax/</link>
       <pubDate>Sun, 10 Sep 2023 10:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/markdown-syntax/</guid>
+      <guid>http://localhost:1313/resume/blogs/markdown-syntax/</guid>
       <description>&lt;p&gt;感谢导师！&lt;/p&gt;</description>
     </item>
   </channel>
