@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>运动 on 个人网站</title>
+    <link>http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/</link>
+    <description>Recent content in 运动 on 个人网站</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 Nov 2023 15:13:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%BF%90%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>羽毛球比赛</title>
+      <link>http://localhost:1313/blogs/emoji-support/</link>
+      <pubDate>Sat, 18 Nov 2023 15:13:58 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/emoji-support/</guid>
+      <description>&lt;p&gt;男双亚军！！！ :zap:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
